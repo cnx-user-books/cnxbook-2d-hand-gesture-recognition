@@ -1,157 +1,104 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" authors="Tracy Fu ,Zihe Huang">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11606</md:content-id>
-  <md:title>2D Hand Gesture Recognition</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>787c04e2-90d0-4372-b8ad-3e45374a0013</md:uuid>
-<md:slug>2d-hand-gesture-recognition</md:slug>
-</metadata>
-
+    <md:content-id>col11606</md:content-id>
+    <md:title>2D Hand Gesture Recognition</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>787c04e2-90d0-4372-b8ad-3e45374a0013</md:uuid>
+    <md:slug>2d-hand-gesture-recognition</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m48486">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48369">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48474">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48483">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48466">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
-              <cnxml:link url="xhttp://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48380">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m48421">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
-              <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
+    <col:module document="m48486">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48369">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48474">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48483">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48466">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
+          <cnxml:link url="xhttp://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48380">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4963514634">Results</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m48421">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.6991706123">Feature Extraction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.7870186535">Database</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.8374275107">Future Work</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-13.4099072361/module_text">Introduction</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.3223488685">Matlab Code</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-14.5673576316">Our Team</cnxml:link>
+          <cnxml:link url="http://cnx.org/Members/cf8/module.2013-12-15.0916292634">Poster</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
   </col:content>
 </col:collection>
